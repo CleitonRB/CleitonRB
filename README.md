@@ -9,8 +9,8 @@
 ⚙️ Ferramentas: VScode, MySQL, Eclipse
 
 ## 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonRB&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonRB&layout=compact&theme=synthwave)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitonRB&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitonRB&show_icons=true&theme=synthwave)
 
 ## 🚀Sempre aprendendo e evoluindo!
